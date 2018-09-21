@@ -1,0 +1,6 @@
+[package]
+name = "mistat"
+version = "0.1.0"
+authors = ["Misato Takahashi <misato@takahashi.name>"]
+
+[dependencies]
